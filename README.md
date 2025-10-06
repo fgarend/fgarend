@@ -1,4 +1,8 @@
-# Hey there! I’m Felipe Arend
+<div align="left">
+  <img src="images/header.svg" alt="Hey there! I'm Felipe Arend" />
+</div>
+
+<br />
 
 A Software Engineer based in Brazil and a enthusiastic learner who enjoys building solutions, self-improvement, and embracing challenges.
 
