@@ -16,7 +16,7 @@ Since then, I’ve also had the opportunity to work with a wide range of technol
 
 ## Connect with me
 
-You can reach me on [LinkedIn](https://linkedin.com/in/fgarend).
+You can reach me on [LinkedIn](https://linkedin.com/in/felipegabrielarend).
 
 <!--
 **fgarend/fgarend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
