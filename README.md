@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hey there! I’m Felipe Arend
+
+A Software Engineer based in Brazil and a enthusiastic learner who enjoys building solutions, self-improvement, and embracing challenges.
+
+Reach me on [LinkedIn](https://linkedin.com/in/fgarend).
 
 <!--
 **fgarend/fgarend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
