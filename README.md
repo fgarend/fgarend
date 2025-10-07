@@ -14,6 +14,8 @@ At the beginning of my career, I worked on a large C++ codebase for a CAD softwa
 
 Since then, I’ve also had the opportunity to work with a wide range of technologies, including Java, Python, Shell Script, Kong API Gateway, Jenkins, GitLab CI/CD, Node.js FaaS, and Jira, and many more along the way that helped me broaden my experience across different areas of software development.
 
+As a hobby, I'm currently exploring and creating small projects in game development using Godot, following tutorials and experimenting with new ideas.
+
 ## Connect with me
 
 You can reach me on [LinkedIn](https://linkedin.com/in/felipegabrielarend).
